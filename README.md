@@ -26,5 +26,8 @@ With those steps completed your product can now be chosen just as any default re
 The 'clear custom content' button does exactly that. It's mainly for new users that copy my spreadsheet, so they aren't burdened with my product recipes.
 Alternatively you could use it, if you want a clean slate for a new playthrough.
 
-Restrictions:
+## Restrictions
+When choosing a module it only shows its recipe in that line, the required modules aren't added automatically as their own rows. This is intentional as I try to use the same modules for multiple products to produce these modules centralized and distribute them then to their respective product assembly tables.
+
 Right now I'm checking items until row 199 and craftings until row 500, if you need more rows just alter the ranges 'RANGE_items' and 'RANGE_crafting' accordingly.
+
