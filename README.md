@@ -15,7 +15,7 @@ The first time you're using one of the buttons Google will ask for permissions. 
 In order to use the calculator for lookup of default recipes you just need to pick a module from the dropw-down.
 I'm always picking the fastest crafting, which is usually the machine one. For cases in which you don't want to use a machine for that module just set the table tick box.
 So there is currently no option to get Tinker Table times or similar low level tables.
-If there is great interest in such a feature, I might implement it. So shoot me a message if your're interested in this.
+If there is great interest in such a feature, I might implement it. So shoot me a message in the GoodCompany Discord server (@Evaniar) if your're interested in this.
 
 
 If you additionally want to plan your production lines including your products, you first need to add their recipes as well as their crafting times.
