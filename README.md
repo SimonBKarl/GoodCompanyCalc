@@ -7,7 +7,9 @@ I didn't want to jump through all the hoops in creating a Google Addon for the s
 
 ## Installation
 
-Make a copy of the spreadsheet and then go to 'Extensions' -> 'Apps Scripts'. In there paste my code from here. You don't need to separate the code like I have done. You can copy it all into one file - works just the same.
+Make a copy of the spreadsheet and then go to 'Extensions' -> 'Apps Scripts'.
+My scripts should have been copied as well, so no need to do anything else here.
+If not, just copy the two files from this Repo into AppsScripts.
 The first time you're using one of the buttons Google will ask for permissions. Grant them and you're done.
 
 ## Usage
