@@ -1,16 +1,14 @@
 # GoodCompanyCalc
 I didn't want to jump through all the hoops in creating a Google Addon for the spreadsheet I'm sharing. So I decided I put the code here.
 
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1uCq542Z3T8DgBcRoTFoktYhB4ak_O2VH-f2v-CxDpcM/edit?usp=sharing) so you can make a copy for yourself.
+Here is the [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1uCq542Z3T8DgBcRoTFoktYhB4ak_O2VH-f2v-CxDpcM/copy) to make a copy for yourself.
 
 
 
 ## Installation
 
-Make a copy of the spreadsheet and then go to 'Extensions' -> 'Apps Scripts'.
-My scripts should have been copied as well, so no need to do anything else here.
-If not, just copy the two files from this Repo into AppsScripts.
-The first time you're using one of the buttons Google will ask for permissions. Grant them and you're done.
+After making a copy you only need to grant permissions to the scripts.
+Google will ask for those automatically the first time you're using one of the buttons. Grant them and you're done.
 
 ## Usage
 
